@@ -17,8 +17,6 @@ sub-agents. The LLM used throughout is **Google Gemini** via
 
 ▶️ **Watch the full demo on YouTube:** [Shopping Assistant demo](https://youtu.be/YOUR_VIDEO_ID)
 
-> ⚠️ Paste your actual YouTube URL in place of `https://youtu.be/YOUR_VIDEO_ID` above
-> (I didn't receive the link — drop it in chat and I'll fill it in).
 
 ---
 
